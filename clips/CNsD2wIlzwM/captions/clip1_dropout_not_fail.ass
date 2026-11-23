@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hook,DejaVu Sans,70,&H00FFFFFF,&H00FFFFFF,&H007F45E8,&H007F45E8,1,0,0,0,100,100,0,0,3,18,0,8,70,70,330,1
+Style: Cap,DejaVu Sans,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,0,0,1,6,2,8,60,60,1310,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:03.00,Hook,,0,0,0,,Chat called him "12th FAIL"…
+Dialogue: 0,0:00:00.00,0:00:04.00,Cap,,0,0,0,,Chat: "Does your girlfriend know you're 12th-fail?"
+Dialogue: 0,0:00:04.00,0:00:07.00,Cap,,0,0,0,,First of all — I am NOT 12th-fail.
+Dialogue: 0,0:00:07.00,0:00:10.00,Cap,,0,0,0,,OK? There's a difference.
+Dialogue: 0,0:00:10.00,0:00:13.00,Cap,,0,0,0,,I left 12th myself. By my own choice.
+Dialogue: 0,0:00:13.00,0:00:17.50,Cap,,0,0,0,,That's called a DROPOUT — not "fail"!
+Dialogue: 0,0:00:18.00,0:00:22.50,Cap,,0,0,0,,(bleep)
+Dialogue: 0,0:00:23.00,0:00:25.00,Cap,,0,0,0,,Second thing — do you even know?
+Dialogue: 0,0:00:25.00,0:00:28.00,Cap,,0,0,0,,She knows, bro.
+Dialogue: 0,0:00:28.00,0:00:32.00,Cap,,0,0,0,,I saw some emotional video someone made about me:
+Dialogue: 0,0:00:32.00,0:00:35.00,Cap,,0,0,0,,"Carry Minati — you must have heard the name…
+Dialogue: 0,0:00:35.00,0:00:38.00,Cap,,0,0,0,,…famous across the country and the world…
+Dialogue: 0,0:00:38.00,0:00:42.50,Cap,,0,0,0,,…found success early — despite being 12th-fail."
+Dialogue: 0,0:00:43.00,0:00:44.00,Cap,,0,0,0,,I got SO angry.
+Dialogue: 0,0:00:44.00,0:00:47.00,Cap,,0,0,0,,I said I'll smack you —
+Dialogue: 0,0:00:47.00,0:00:51.50,Cap,,0,0,0,,wind up and SMACK you. "12th fail."
+Dialogue: 0,0:00:52.00,0:00:54.00,Cap,,0,0,0,,(bleep)
+Dialogue: 0,0:00:54.00,0:00:58.00,Cap,,0,0,0,,Bro, dropout and fail are VERY different.

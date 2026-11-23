@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hook,DejaVu Sans,70,&H00FFFFFF,&H00FFFFFF,&H007F45E8,&H007F45E8,1,0,0,0,100,100,0,0,3,18,0,8,70,70,330,1
+Style: Cap,DejaVu Sans,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,0,0,1,6,2,8,60,60,1310,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:03.00,Hook,,0,0,0,,Chat voted to SELL his Lambo… then changed its mind
+Dialogue: 0,0:00:00.00,0:00:04.50,Cap,,0,0,0,,"Don't sell it"? Then why'd you say SELL before?!
+Dialogue: 0,0:00:05.00,0:00:08.00,Cap,,0,0,0,,Why'd you say "sell it" before?
+Dialogue: 0,0:00:08.00,0:00:12.50,Cap,,0,0,0,,Why'd you say it before?!
+Dialogue: 0,0:00:13.00,0:00:17.00,Cap,,0,0,0,,Why are you being such clowns, bro?
+Dialogue: 0,0:00:17.00,0:00:21.50,Cap,,0,0,0,,What? This guy came to fight me, bro —
+Dialogue: 0,0:00:25.00,0:00:29.50,Cap,,0,0,0,,I didn't even say anything to him! What's his problem?
+Dialogue: 0,0:00:34.00,0:00:37.00,Cap,,0,0,0,,Bro, it's LITERALLY become politics.
+Dialogue: 0,0:00:37.00,0:00:39.00,Cap,,0,0,0,,Just like in politics —
+Dialogue: 0,0:00:39.00,0:00:42.00,Cap,,0,0,0,,you vote for one guy, then "we never wanted him!
+Dialogue: 0,0:00:42.00,0:00:45.00,Cap,,0,0,0,,Shouldn't have voted for him — why did he win?"
+Dialogue: 0,0:00:45.00,0:00:49.50,Cap,,0,0,0,,That's literally what you guys are doing.
+Dialogue: 0,0:00:52.00,0:00:55.00,Cap,,0,0,0,,Then why did you VOTE?
+Dialogue: 0,0:00:55.00,0:00:58.00,Cap,,0,0,0,,Weren't you at the polling booth? Were you sitting at home?!

@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hook,DejaVu Sans,70,&H00FFFFFF,&H00FFFFFF,&H007F45E8,&H007F45E8,1,0,0,0,100,100,0,0,3,18,0,8,70,70,330,1
+Style: Cap,DejaVu Sans,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,0,0,1,6,2,8,60,60,1310,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:03.00,Hook,,0,0,0,,Stealing a Lambo from a mansion in GTA 6…
+Dialogue: 0,0:00:00.00,0:00:04.50,Cap,,0,0,0,,Wait. I don't want to leave ANYTHING behind here.
+Dialogue: 0,0:00:05.00,0:00:08.00,Cap,,0,0,0,,(bleep)!
+Dialogue: 0,0:00:08.00,0:00:10.00,Cap,,0,0,0,,Oh (bleep), bro — now we have to RUN!
+Dialogue: 0,0:00:10.00,0:00:14.50,Cap,,0,0,0,,If I don't run now, I lose it all!
+Dialogue: 0,0:00:15.00,0:00:19.00,Cap,,0,0,0,,We're SCREWED!
+Dialogue: 0,0:00:19.00,0:00:22.00,Cap,,0,0,0,,(bleep) (bleep) (bleep)!
+Dialogue: 0,0:00:22.00,0:00:26.00,Cap,,0,0,0,,We're screwed — GET OUT, get out, get out!
+Dialogue: 0,0:00:26.00,0:00:30.50,Cap,,0,0,0,,Get out of here!
+Dialogue: 0,0:00:38.00,0:00:40.00,Cap,,0,0,0,,Oh bro — this car is FAST!
+Dialogue: 0,0:00:40.00,0:00:44.50,Cap,,0,0,0,,This car is really fast — move, move, MOVE!
+Dialogue: 0,0:00:46.00,0:00:49.00,Cap,,0,0,0,,WOW. This car is SO fast, bro!
+Dialogue: 0,0:00:49.00,0:00:52.00,Cap,,0,0,0,,Bro, DRIVE!
+Dialogue: 0,0:00:52.00,0:00:56.00,Cap,,0,0,0,,Are you kidding me?! Way TOO fast!
+Dialogue: 0,0:00:56.00,0:00:59.00,Cap,,0,0,0,,I don't even know how it's driving.

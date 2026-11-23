@@ -1,0 +1,70 @@
+[
+  {
+    "id": "clip1_dropout_not_fail",
+    "title": "\"I'm a DROPOUT, not 12th-fail\"",
+    "start": "03:09:22", "end": "03:10:20",
+    "hook": "Chat called him \"12th FAIL\"…",
+    "lines": [
+      ["03:09:22", "Chat: \"Does your girlfriend know you're 12th-fail?\""],
+      ["03:09:26", "First of all — I am NOT 12th-fail."],
+      ["03:09:29", "OK? There's a difference."],
+      ["03:09:32", "I left 12th myself. By my own choice."],
+      ["03:09:35", "That's called a DROPOUT — not \"fail\"!"],
+      ["03:09:40", "(bleep)"],
+      ["03:09:45", "Second thing — do you even know?"],
+      ["03:09:47", "She knows, bro."],
+      ["03:09:50", "I saw some emotional video someone made about me:"],
+      ["03:09:54", "\"Carry Minati — you must have heard the name…"],
+      ["03:09:57", "…famous across the country and the world…"],
+      ["03:10:00", "…found success early — despite being 12th-fail.\""],
+      ["03:10:05", "I got SO angry."],
+      ["03:10:06", "I said I'll smack you —"],
+      ["03:10:09", "wind up and SMACK you. \"12th fail.\""],
+      ["03:10:14", "(bleep)"],
+      ["03:10:16", "Bro, dropout and fail are VERY different."]
+    ]
+  },
+  {
+    "id": "clip2_heist_lambo_escape",
+    "title": "Mansion heist goes wrong → Ruby Lambo escape",
+    "start": "00:57:58", "end": "00:58:57",
+    "hook": "Stealing a Lambo from a mansion in GTA 6…",
+    "lines": [
+      ["00:57:58", "Wait. I don't want to leave ANYTHING behind here."],
+      ["00:58:03", "(bleep)!"],
+      ["00:58:06", "Oh (bleep), bro — now we have to RUN!"],
+      ["00:58:08", "If I don't run now, I lose it all!"],
+      ["00:58:13", "We're SCREWED!"],
+      ["00:58:17", "(bleep) (bleep) (bleep)!"],
+      ["00:58:20", "We're screwed — GET OUT, get out, get out!"],
+      ["00:58:24", "Get out of here!"],
+      ["00:58:36", "Oh bro — this car is FAST!"],
+      ["00:58:38", "This car is really fast — move, move, MOVE!"],
+      ["00:58:44", "WOW. This car is SO fast, bro!"],
+      ["00:58:47", "Bro, DRIVE!"],
+      ["00:58:50", "Are you kidding me?! Way TOO fast!"],
+      ["00:58:54", "I don't even know how it's driving."]
+    ]
+  },
+  {
+    "id": "clip3_chat_poll_politics",
+    "title": "Chat votes SELL, then regrets it — \"this is literally politics\"",
+    "start": "01:20:19", "end": "01:21:17",
+    "hook": "Chat voted to SELL his Lambo… then changed its mind",
+    "lines": [
+      ["01:20:19", "\"Don't sell it\"? Then why'd you say SELL before?!"],
+      ["01:20:24", "Why'd you say \"sell it\" before?"],
+      ["01:20:27", "Why'd you say it before?!"],
+      ["01:20:32", "Why are you being such clowns, bro?"],
+      ["01:20:36", "What? This guy came to fight me, bro —"],
+      ["01:20:44", "I didn't even say anything to him! What's his problem?"],
+      ["01:20:53", "Bro, it's LITERALLY become politics."],
+      ["01:20:56", "Just like in politics —"],
+      ["01:20:58", "you vote for one guy, then \"we never wanted him!"],
+      ["01:21:01", "Shouldn't have voted for him — why did he win?\""],
+      ["01:21:04", "That's literally what you guys are doing."],
+      ["01:21:11", "Then why did you VOTE?"],
+      ["01:21:14", "Weren't you at the polling booth? Were you sitting at home?!"]
+    ]
+  }
+]
